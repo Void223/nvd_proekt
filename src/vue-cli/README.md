@@ -1,4 +1,4 @@
-# nvd_proekt
+# vue-cli
 
 ## Project setup
 ```
