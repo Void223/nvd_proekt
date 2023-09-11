@@ -9,7 +9,7 @@ import NavBar from './components/NavBar.vue';
   </div>
 </template>
 
-<style scoped>
+<style>
 body {
   margin: 0;
   font-family: "Roboto", sans-serif;
